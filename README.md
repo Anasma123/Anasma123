@@ -47,8 +47,8 @@
 <div align="left">
   <a hreaf="https://youtube.com/@ruzaarmedia2251?si=OHnaiVJc-dWTA4Fq">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <a hreaf="https://instagram.com/muhammed_anas_ma?utm_medium=copy_link>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a hreaf="https://instagram.com/muhammed_anas_ma?utm_medium=copy_link">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> </a>
   <a hreaf="anasmapvt@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a hreaf="anasmapvt@gmail.com">
