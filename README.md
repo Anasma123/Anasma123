@@ -2,16 +2,35 @@
   <img height="200" src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?t=st=1741326877~exp=1741330477~hmac=0d58f8812f41e3264b699ea6419df2126b0cf4d8eeed69cdf0656a22ebea5740&w=1060"  />
 </div>
 
-###
+### 
 
-<h5 align="left">🚀 Muhammed Anas M A | Developer & Tech Enthusiast<br><br>I am a passionate developer with a deep interest in software development, problem-solving, and innovation. I enjoy writing clean, efficient code and constantly learning new technologies to enhance my skills. My goal is to build impactful solutions that make a difference in the tech world.<br><br>🛠 Skills & Technologies<br><br>Programming: Python, Java, Data Structures,Html,Java,Algorithms, SQL<br><br>Development: Web Development (HTML, CSS, JavaScript), Flutter (Mobile App Development)<br><br>Design: Photoshop, UI/UX Fundamentals<br><br>Other Interests: Trading, System Design, AI<br><br><br>🎯 What Drives Me?<br><br>✔️ Passion for solving real-world problems through technology<br>✔️ Constantly learning and evolving as a developer<br>✔️ Love for creative coding and building intuitive user experiences<br>✔️ Sharing knowledge through Ruzaar Media on YouTube<br><br>
+<h2 align="center">🚀 Muhammed Anas M A | Developer & Tech Enthusiast</h2>
 
-###
+<p align="center">
+  I am a passionate developer with a deep interest in software development, problem-solving, and innovation. I enjoy writing clean, efficient code and constantly learning new technologies to enhance my skills. My goal is to build impactful solutions that make a difference in the tech world.
+</p>
 
-<br clear="both">
+### 
 
+<h3>🛠 Skills & Technologies</h3>
+<ul>
+  <li><strong>Programming:</strong> Python, Java, Data Structures, HTML, Java, Algorithms, SQL</li>
+  <li><strong>Development:</strong> Web Development (HTML, CSS, JavaScript), Flutter (Mobile App Development)</li>
+  <li><strong>Design:</strong> Photoshop, UI/UX Fundamentals</li>
+  <li><strong>Other Interests:</strong> Trading, System Design, AI</li>
+</ul>
 
+### 
 
+<h3>🎯 What Drives Me?</h3>
+<ul>
+  <li>✔️ Passion for solving real-world problems through technology</li>
+  <li>✔️ Constantly learning and evolving as a developer</li>
+  <li>✔️ Love for creative coding and building intuitive user experiences</li>
+  <li>✔️ Sharing knowledge through Ruzaar Media on YouTube</li>
+</ul>
+
+### 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -35,53 +54,38 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
 </div>
 
-<br clear="both">
+### 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anasma123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anasma123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<br clear="both">
+### 
 
-📫 Let’s Connect<br><br>
-<div align="left">
-  <a href="https://youtube.com/@ruzaarmedia2251?si=OHnaiVJc-dWTA4Fq">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <a href="https://instagram.com/muhammed_anas_ma?utm_medium=copy_link">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> </a>
-  <a href="anasmapvt@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-<a href="mailto:anasmapvt@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</a>
-
-  <a href="www.linkedin.com/in/Muhammedanasma">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://www.instagram.com/muhammed_anas_ma/p/CxS47S4BmB7/"  />
-
-###
-
-
-###
-
-<br clear="both">
-
-
-
-###
+<p align="center">📫 Let’s Connect</p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Anasma123/count.svg?"  />
+  <a href="https://youtube.com/@ruzaarmedia2251?si=OHnaiVJc-dWTA4Fq">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/muhammed_anas_ma?utm_medium=copy_link">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="mailto:anasmapvt@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/Muhammedanasma">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
-###
+### 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Anasma123/count.svg?" />
+</div>
+
+### 
 
 <img src="https://raw.githubusercontent.com/Anasma123/Anasma123/output/snake.svg" alt="Snake animation" />
-
-###
