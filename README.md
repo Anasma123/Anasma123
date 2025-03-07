@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="200" src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcGVyfGVufDB8fDB8fHww"  />
+  <img height="200" src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?t=st=1741326877~exp=1741330477~hmac=0d58f8812f41e3264b699ea6419df2126b0cf4d8eeed69cdf0656a22ebea5740&w=1060"  />
 </div>
 
 ###
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h5 align="left">🚀 Muhammed Anas M A | Developer & Tech Enthusiast<br><br>I am a passionate developer with a deep interest in software development, problem-solving, and innovation. I enjoy writing clean, efficient code and constantly learning new technologies to enhance my skills. My goal is to build impactful solutions that make a difference in the tech world.<br><br>🛠 Skills & Technologies<br><br>Programming: Python, Java, Data Structures,Html,Java,Algorithms, SQL<br><br>Development: Web Development (HTML, CSS, JavaScript), Flutter (Mobile App Development)<br><br>Design: Photoshop, UI/UX Fundamentals<br><br>Other Interests: Trading, System Design, AI<br><br><br>🎯 What Drives Me?<br><br>✔️ Passion for solving real-world problems through technology<br>✔️ Constantly learning and evolving as a developer<br>✔️ Love for creative coding and building intuitive user experiences<br>✔️ Sharing knowledge through Ruzaar Media on YouTube<br><br>📫 Let’s Connect<br><br>Instagram:https://instagram.com/muhammed_anas_ma?utm_medium=copy_link<br><br>LinkedIn:www.linkedin.com/in/Muhammedanasma<br><br>Youtube:https://youtube.com/@ruzaarmedia2251?si=OHnaiVJc-dWTA4Fq</h5>
 
 ###
 
@@ -23,7 +23,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://www.instagram.com/muhammed_anas_ma/p/CxS47S4BmB7/"  />
 
 ###
 
@@ -57,5 +57,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Anasma123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anasma123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Anasma123/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Anasma123/Anasma123/output/snake.svg" alt="Snake animation" />
 
 ###
