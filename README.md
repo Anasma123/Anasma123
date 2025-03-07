@@ -14,7 +14,7 @@
 
 <h3>🛠 Skills & Technologies</h3>
 <ul>
-  <li><strong>Programming:</strong> Python, Java, Data Structures, HTML, Java, Algorithms, SQL</li>
+  <li><strong>Programming:</strong> Python, Java, Data Structures, HTML, Algorithms, SQL</li>
   <li><strong>Development:</strong> Web Development (HTML, CSS, JavaScript), Flutter (Mobile App Development)</li>
   <li><strong>Design:</strong> Photoshop, UI/UX Fundamentals</li>
   <li><strong>Other Interests:</strong> Trading, System Design, AI</li>
